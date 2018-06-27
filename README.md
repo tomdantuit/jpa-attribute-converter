@@ -10,9 +10,9 @@ with the data.
 - [Docker-Compose](https://docs.docker.com/compose/install/)
 
 ## Running
-1. `$ docker-compose up -d`
-2. `$ mvn clean package`
-3. `$ mvn spring-boot:run`
+1. $` docker-compose up -d`
+2. $` mvn clean package`
+3. $` mvn spring-boot:run`
 
 ## Important Files
 ### CodeConverterConfig.java
