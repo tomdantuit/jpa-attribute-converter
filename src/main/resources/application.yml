@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/springbootdb
+    username: springbootdb
+  jpa:
+    hibernate:
+      ddl-auto: create-drop
+code:
+  converter:
+    prefix: "CONFIG_"
