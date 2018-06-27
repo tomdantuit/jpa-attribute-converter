@@ -1,7 +1,7 @@
 # Configurable AttributeConverter with JPA
 
 ## Description
-This is an example project using a AttributeConverter to put a prefix on a database column's value. 
+This is an example project using an AttributeConverter to put a prefix on a database column's value. 
 The prefix used is configurable in the application.yml. There are also REST endpoints for interacting
 with the data.
 
